@@ -1,0 +1,28 @@
+order_id,customer_id,product_name,category,price,quantity,order_date,region
+ORD-10000,CUST-10492,Headphones,Electronics,89.99,2,2025-01-15,North
+ORD-10001,CUST-92813,Novel,Books,14.99,1,2025-01-16,South
+ORD-10002,CUST-38472,,Books,29.99,3,2025-01-17,East
+ORD-10003,CUST-58392,Python Programming,Books,59.99,1,2025-01-18,West
+ORD-10004,CUST-29481,SQL Cookbook,,45.00,2,2025-01-19,Midwest
+ORD-10005,CUST-48201,Pens (12-pack),Office Supplies,12.50,5,2025-01-20,North
+ORD-10005,CUST-48201,Pens (12-pack),Office Supplies,12.50,5,2025-01-20,North
+ORD-10006,CUST-10928,Desk Lamp,Office Supplies,34.99,1,,South
+ORD-10007,CUST-83920,Bookshelf,Office Supplies,120.00,1,2025-01-22,East
+ORD-10008,CUST-92841,Headphones,Electronics,89.99,1,2025-01-23,West
+ORD-10008,CUST-92841,Headphones,Electronics,89.99,1,2025-01-23,West
+ORD-10009,CUST-12847,Novel,Books,14.99,2,2025-01-24,Midwest
+ORD-10010,CUST-38291,Python Programming,Books,unknown,1,2025-01-25,North
+ORD-10011,CUST-48201,Pens (12-pack),Office Supplies,12.50,5,2025-01-26,South
+ORD-10012,CUST-12847,Novel,Books,14.99,2,2025-01-27,Midwest
+ORD-10012,CUST-55555,Desk Lamp,Office Supplies,34.99,1,2025-02-01,East
+ORD-10013,CUST-33333,,Electronics,199.99,1,2025-02-02,South
+ORD-10014,CUST-44444,,Office Supplies,5.00,10,2025-02-03,West
+ORD-10015,CUST-66666,Python Programming,,59.99,1,2025-02-04,North
+ORD-10016,CUST-77777,Bookshelf,,120.00,1,2025-02-05,East
+ORD-10017,CUST-88888,Headphones,Electronics,89.99,2,,Midwest
+ORD-10018,CUST-99999,Novel,Books,14.99,1,,West
+ORD-10019,CUST-22222,SQL Cookbook,Books,45.00,1,2025-02-06,North
+ORD-10020,CUST-33333,Desk Lamp,Office Supplies,34.99,2,2025-02-07,South
+ORD-10021,CUST-44444,Pens (12-pack),Office Supplies,12.50,8,2025-02-08,East
+ORD-10022,CUST-55555,Headphones,Electronics,89.99,1,2025-02-09,West
+ORD-10023,CUST-66666,Novel,Books,14.99,3,2025-02-10,Midwest
