@@ -14,7 +14,7 @@ An interactive, production-quality Data Quality validation dashboard built using
   - **🔍 Raw Data Preview**: View the raw dataset with highlighted null/missing cells and a clean CSV export tool.
 
 ## 📸 Screenshot
-![screenshot](screenshot.png)
+![screenshot](![screenshot](Screenshot%202026-07-18%20230118.png))
 
 ## 🚀 How to Run Locally
 
